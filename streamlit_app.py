@@ -1,6 +1,6 @@
 import streamlit
 
-streamlit.title('Snowflake trial diner')
+streamlit.title('Hotel Aadikuttan')
 streamlit.header('🥣🍞Shaapaadu')
 streamlit.text('🥗Thengakola')
 streamlit.text('🥑Mangatholi')
